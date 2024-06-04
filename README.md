@@ -2,7 +2,8 @@
 
 Welcome to the official GitHub repository for the **Solana Volume Booster / Volume Bot**, a cutting-edge solution designed by Ranga Technologies to amplify the trading volume of tokens on the Solana network via Raydium DEX. This innovative tool is crucial for token creators aiming to enhance their market visibility and attract substantial investor interest by ranking higher on platforms like Dextool, Dexscreener and CoinMarketCap.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3iGDtJYcq7Y?si=yX6s8wG5bgWQnXi5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/3iGDtJYcq7Y/0.jpg)](https://www.youtube.com/watch?v=3iGDtJYcq7Y)
+
 
 ## 🚀 About the Project
 
