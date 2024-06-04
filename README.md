@@ -21,6 +21,11 @@ Explore more about how our Volume Booster can transform your token's market perf
 - **Enhanced Visibility**: Improve your token's visibility and credibility among potential investors.
 - **Strategic Ranking**: Leverage enhanced volume to rank your token higher on analytical dashboards like Dextool and CoinMarketCap.
 
+## 🌟 Demo
+
+[![Watch the video](https://img.youtube.com/vi/yS-jjJZXHZE/0.jpg)](https://www.youtube.com/watch?v=yS-jjJZXHZE "YouTube video player")
+
+
 ## 📈 Why Choose Us?
 
 Ranga Technologies is at the forefront of blockchain solutions, having successfully implemented numerous projects that enhance the blockchain ecosystem. Our Solana Volume Booster is already benefiting over 100 satisfied clients by dramatically increasing their tokens' trading volumes and market presence.
